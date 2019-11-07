@@ -40,7 +40,6 @@ class MainActivity : AppCompatActivity() {
             txtStatus.text = "Overweight"
             imageView.setImageResource(R.drawable.over)
 
-
         }
     }
     private fun reset(){
